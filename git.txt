@@ -1,2 +1,3 @@
-Git is what
+Git is what.
 Git is Free software.
+Git is very important.
